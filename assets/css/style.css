@@ -1,0 +1,27 @@
+body{
+    border: 1px red solid;
+    position: relative;
+}
+
+#block1{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+}
+#block2{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    position: relative;
+    
+}
+#block3{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+}
+
+
